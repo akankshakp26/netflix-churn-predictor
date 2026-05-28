@@ -1,7 +1,7 @@
 # 📺 Netflix Customer Churn Prediction
 <img width="1892" height="910" alt="Screenshot 2026-05-28 121408" src="https://github.com/user-attachments/assets/a968b6d7-59f5-4503-b03b-9feea6bf69b2" />
 
-A full-stack **Django web application** that predicts Netflix customer churn using machine learning. The app walks through the complete ML pipeline — from raw data ingestion and preprocessing to model training, prediction, and detailed evaluation — entirely through a browser-based UI.
+A full-stack **Django web application** that predicts Netflix customer churn using machine learning. The app walks through the complete ML pipeline from raw data ingestion and preprocessing to model training, prediction, and detailed evaluation entirely through a browser-based UI.
 
 ---
 
